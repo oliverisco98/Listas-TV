@@ -4,9 +4,9 @@
 # ======================================
 # 🇵🇪 PERÚ
 # ======================================
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE| Latina HD OP1" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina HD OP1
+#EXTINF:-1 tvg-id="latina.pe" tvg-name="PE| Latina HD OP1" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina HD OP1
 http://rlatinop.com:8880/Tamlem/LF4n5CMe7KBy/429009
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE| Latina SD" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina SD
+#EXTINF:-1 tvg-id="latina.pe" tvg-name="PE| Latina SD" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina SD
 http://rlatinop.com:8880/Tamlem/LF4n5CMe7KBy/429011
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="🇵🇪 PERÚ",America TV
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
