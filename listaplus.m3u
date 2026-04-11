@@ -1,17 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 #EXT-X-INDEPENDENT-SEGMENTS
 # ======================================
-# 🇵🇪 PERÚ
-# ======================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="🇵🇪 PERÚ",Panamericana
-https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="🇵🇪 PERÚ",WILLAX HD
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="🇵🇪 PERÚ",La Tele
-https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/1200px-NativaTV_logo2.png" group-title="🇵🇪 PERÚ",Nativa
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-# ======================================
 # ⚽ DEPORTES
 # ======================================
 #EXTINF:-1 tvg-id="DSPORTS.PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
@@ -137,24 +126,6 @@ https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/SHO_L-APRO/mp4/7/2/17292702
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/abc-logo.png" group-title="🌎 INTERNACIONALES",ABC
 http://fortv.cc:8080/90820916/64752029/120855
-# ======================================
-# 📚 DOCUMENTALES
-# ======================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Discovery_Channel_logo.svg" group-title="📚 DOCUMENTALES",Discovery Channel
-http://181.119.86.68:8000/play/c012/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/National_Geographic_Channel.svg" group-title="📚 DOCUMENTALES",NationalGeographic
-http://179.51.136.19:8000/play/a1bd/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/History_Channel_logo.svg" group-title="📚 DOCUMENTALES",History Channel
-http://181.119.86.68:8000/play/c020/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Animal_Planet_logo_2018.svg" group-title="📚 DOCUMENTALES",Animal Planet
-http://181.119.85.222:8000/play/a01e/index.m3u8
-# ======================================
-# 🏛️ CULTURA - Canales culturales
-# ======================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Ipe_logo.svg" group-title="🏛️ CULTURA",Canal IPE
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="🏛️ CULTURA",USMPTV
-https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 # ======================================
 # 🏆 PREMIUM
 # ======================================
