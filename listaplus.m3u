@@ -42,9 +42,3 @@ http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/327917
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="⚽ DEPORTES",TYC SPORTS
 http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/327918
-
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png" group-title="⚽ DEPORTES",TNT SPORTS
-http://181.78.201.70:8000/play/a0tx/index.m3u8
-
-#EXTINF:-1 tvg-id="GolTV.us" tvg-name="Gol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="⚽ DEPORTES",Gol TV
-http://179.51.136.19:8000/play/a1gz/index.m3u8
