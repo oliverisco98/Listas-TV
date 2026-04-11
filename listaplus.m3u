@@ -31,7 +31,7 @@ http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428657
 #EXTINF:-1 tvg-id="ESPN5.pe" tvg-name="ESPN 5" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⚽ DEPORTES PERÚ",ESPN 5
 http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428658
 
-#EXTINF:-1 tvg-id="ESPN5.pe" tvg-name="ESPN 6" tvg-logo="" group-title="⚽ DEPORTES PERÚ",ESPN 6
+#EXTINF:-1 tvg-id="ESPN6.pe" tvg-name="ESPN 6" tvg-logo="" group-title="⚽ DEPORTES PERÚ",ESPN 6
 http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428659
 
 #EXTINF:-1 tvg-id="ESPN7.pe" tvg-name="ESPN 7" tvg-logo="" group-title="⚽ DEPORTES PERÚ",ESPN 7
@@ -45,3 +45,15 @@ http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/327918
 
 #EXTINF:-1 tvg-id="TNTSports.ar" group-title="⚽ DEPORTES ARGENTINA",TNT SPORTS ARG
 http://visuales.xyz:8080/Capwe1850/CrRQ5gt/67387
+
+#EXTINF:-1 tvg-id="FoxSports.la" group-title="⚽ DEPORTES LATAM",FOX SPORTS 1
+http://visuales.xyz:8080/Capwe1850/CrRQ5gt/22899
+
+#EXTINF:-1 tvg-id="FoxSports2.la" group-title="⚽ DEPORTES LATAM",FOX SPORTS 2
+http://visuales.xyz:8080/Capwe1850/CrRQ5gt/32109
+
+#EXTINF:-1 tvg-id="FoxSports3.la" group-title="⚽ DEPORTES LATAM",FOX SPORTS 3
+http://visuales.xyz:8080/Capwe1850/CrRQ5gt/61813
+
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="⚽ DEPORTES LATAM",FOX SPORTS PREMIUM
+http://visuales.xyz:8080/Capwe1850/CrRQ5gt/277666
