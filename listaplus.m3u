@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml"
+#EXT-X-INDEPENDENT-SEGMENTS
 # ======================================
 # ⚽ DEPORTES
 # ======================================
