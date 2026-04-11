@@ -4,29 +4,35 @@
 # ⚽ DEPORTES
 # ======================================
 
-#EXTINF:-1 tvg-id="DSports.pe" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="DSports.pe" tvg-name="DIRECTV SPORTS" tvg-logo="http://redworld.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
+http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428666
 
-#EXTINF:-1 tvg-id="DSports2.pe" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="⚽ DEPORTES",DIRECTV SPORTS 2
-http://179.51.136.19:8000/play/a112/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.pe" tvg-name="DIRECTV SPORTS 2" tvg-logo="http://redworld.pro:8880/images/ecc2816ea02928aa4f2917d4980b2f9a.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2
+http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428667
 
-#EXTINF:-1 tvg-id="DSportsPlus.pe" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS PLUS
-http://179.51.136.19:8000/play/a113/index.m3u8
+#EXTINF:-1 tvg-id="DSportsPlus.pe" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="http://redworld.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="⚽ DEPORTES",DIRECTV SPORTS PLUS
+http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428668
 
-#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ DEPORTES",ESPN
-http://181.119.86.68:8000/play/b031/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⚽ DEPORTES",ESPN
+http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428654
 
-#EXTINF:-1 tvg-id="ESPN2.pe" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="⚽ DEPORTES",ESPN 2
-http://181.78.23.26:45000/play/a00m
+#EXTINF:-1 tvg-id="ESPN2.pe" tvg-name="ESPN 2" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⚽ DEPORTES",ESPN 2
+http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428655
 
 #EXTINF:-1 tvg-id="ESPN3.pe" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1024px-ESPN3_logo.svg.png" group-title="⚽ DEPORTES",ESPN 3
 http://181.119.86.68:8000/play/b033/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN4.pe" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="⚽ DEPORTES",ESPN 4
-http://181.119.85.222:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.pe" tvg-name="ESPN 4" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⚽ DEPORTES",ESPN 4
+http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428657
 
-#EXTINF:-1 tvg-id="ESPN5.pe" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="⚽ DEPORTES",ESPN 5
-http://179.51.136.19:8000/play/a1a6/index.m3u8
+#EXTINF:-1 tvg-id="ESPN5.pe" tvg-name="ESPN 5" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⚽ DEPORTES",ESPN 5
+http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428658
+
+#EXTINF:-1 tvg-id="ESPN5.pe" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="⚽ DEPORTES",ESPN 6
+http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428659
+
+#EXTINF:-1 tvg-id="ESPN7.pe" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="⚽ DEPORTES",ESPN 7
+http://rlatinop.com:8880/Jorge_ignacio/svZMKJtdXwaA/428660
 
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="GOLPERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="⚽ DEPORTES",GOLPERU
 http://38.183.182.166:8000/play/a120/index.m3u8
